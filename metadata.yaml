@@ -1,0 +1,30 @@
+_repo: Poetical-Ingenuities-and-Eccentricities_40124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40124-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Dobson, William T.
+    alias: Dobson, W. T. (William T.)
+    gutenberg_agent_id: '41821'
+    url: http://www.gutenberg.org/2009/agents/41821
+description: ''
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcc 'PN'
+- !lcsh 'Macaronic poetry'
+tableOfContents: The parody -- Chain or concatenation verse -- Macaronic verse --
+  Linguistic verse -- Technical verse -- Single-rhymed verse -- Anagrams -- The acrostic
+  -- Alliterative and alphabetic verse -- Nonsense verse -- Lipograms -- Centones
+  or mosaics -- Echo verses -- Watch-case verses -- Prose poems -- Miscellaneous.
+title: Poetical Ingenuities and Eccentricities
+url: http://www.gutenberg.org/ebooks/40124
